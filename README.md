@@ -2,7 +2,7 @@
 
 > Zadania z Big Data studia magisterskie
 
-<img src="https://i.imgur.com/DNnWamo.png" align="center">
+<div align="center"><img src="https://i.imgur.com/DNnWamo.png" width="50%"></div>
 
 ## Zadanie 2
 
