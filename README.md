@@ -7,7 +7,7 @@
 ## Zadanie 2
 
 W ramach zadania należy:
-`
+
 1. Utworzyć projekt w języku Java, korzystający z biblioteki Spark (można użyć dostosować przykładowy projekt https://github.com/bmalach/spark-proj-template)
 2. Dołączyć do projektu plik z danymi pochodzący ze strony https://grouplens.org/datasets/movielens/ zawierający oceny filmów
 3. Napisać kod, który sprawdzi ile razy każdy film został oceniony oraz wyświetlić te informacje w postaci posortowanej wg liczby ocen.
